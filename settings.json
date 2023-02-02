@@ -1,5 +1,5 @@
 "workbench.colorCustomizations": {
-    "[Dracula]": {
+    "[Dracula Soft]": {
       "terminal.background": "#1E2132",
       "terminal.foreground": "#F8F8F2",
       "terminal.ansiBrightBlack": "#6272A4",
@@ -56,7 +56,7 @@
       "activityBar.foreground": "#F8F8F2",
       "activityBar.activeBorder": "#ff757f80",
       "activityBar.activeBackground": "#fca7ea10",
-      "activityBarBadge.background": "#65bcff",
+      "activityBarBadge.background": "#ff757f",
       "activityBarBadge.foreground": "#F8F8F2",
       "sideBar.background": "#1E2132",
       "sideBar.border": "#191a2a",
@@ -164,7 +164,7 @@
       "statusBarItem.prominentBackground": "#FF5555",
       "statusBarItem.prominentHoverBackground": "#86e1fc",
       "statusBarItem.remoteForeground": "#f8f8f2",
-      "statusBarItem.remoteBackground": "#65bcff",
+      "statusBarItem.remoteBackground": "#ff757f",
       "titleBar.activeBackground": "#1E2132",
       "titleBar.activeForeground": "#F8F8F2",
       "titleBar.inactiveBackground": "#131421",
@@ -201,7 +201,7 @@
     }
   },
   "editor.tokenColorCustomizations": {
-    "[Dracula]": {
+    "[Dracula Soft]": {
       "textMateRules": [
         {
           "scope": [
